@@ -1,0 +1,793 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-26T18:50:04.307Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2989800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.beforeHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "user want to login the Application",
+        "description": "",
+        "id": "hotel-booking-functionality;user-want-to-login-the-application;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3176500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.afterHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2037018900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user want the launch the adatin application",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_want_the_launch_the_adatin_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 182165100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter \"AAA\" the valid username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"AAA\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_valid_username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 71897100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enter \"111\" the valid password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"111\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_valid_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 440911900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user verify valid username and password",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_verify_valid_username_and_password()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-26T18:50:07.243Z",
+        "before": [
+          {
+            "result": {
+              "duration": 497900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.beforeHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "user want to login the Application",
+        "description": "",
+        "id": "hotel-booking-functionality;user-want-to-login-the-application;;3",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.afterHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 233948400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user want the launch the adatin application",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_want_the_launch_the_adatin_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 62069400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter \"BBB\" the valid username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"BBB\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_valid_username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 56918000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enter \"222\" the valid password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"222\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_valid_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 465287200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user verify valid username and password",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_verify_valid_username_and_password()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-26T18:50:08.083Z",
+        "before": [
+          {
+            "result": {
+              "duration": 685800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.beforeHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "user want to login the Application",
+        "description": "",
+        "id": "hotel-booking-functionality;user-want-to-login-the-application;;4",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.afterHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 251303500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user want the launch the adatin application",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_want_the_launch_the_adatin_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 70134200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter \"robin999\" the valid username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"robin999\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_valid_username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 66551100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enter \"leo1234\" the valid password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"leo1234\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_valid_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1017180000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user verify valid username and password",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_verify_valid_username_and_password()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-26T18:50:09.516Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.beforeHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "user want to login the Application",
+        "description": "",
+        "id": "hotel-booking-functionality;user-want-to-login-the-application",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.afterHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 318574300,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user want the launch the adatin application",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_want_the_launch_the_adatin_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 85509000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user enter \"maran123\" the valid username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"maran123\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_valid_username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 49368700,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user enter \"password\" the valid password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_valid_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 648432600,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user verify valid username and password",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_verify_valid_username_and_password()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@login"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-26T18:50:10.636Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.beforeHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 25,
+        "name": "user want to search hotel",
+        "description": "",
+        "id": "hotel-booking-functionality;user-want-to-search-hotel",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.afterHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 111043900,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user select \"Melbourne\" the preferred location",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Melbourne\"",
+                  "offset": 12
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_select_the_preferred_location(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 90757800,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user select \"Hotel Sunshine\" the preferred hotel",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Hotel Sunshine\"",
+                  "offset": 12
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_select_the_preferred_hotel(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 123307900,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user select \"3\" the room type",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"3\"",
+                  "offset": 12
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_select_the_room_type(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 62921300,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user select \"1\" the number of rooms",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1\"",
+                  "offset": 12
+                }
+              ],
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_select_the_number_of_rooms(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 55828300,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "user enter check in date",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_check_in_date()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 63643800,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "user enter select check out date",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_select_check_out_date()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 98788600,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "user want to select number of adult per room",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_want_to_select_number_of_adult_per_room()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 87684500,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user want to select number of children per room",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_want_to_select_number_of_children_per_room()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 654493200,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user verify the details",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_verify_the_details()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@login"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-26T18:50:11.998Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.beforeHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 37,
+        "name": "user want to confirm the hotel",
+        "description": "",
+        "id": "hotel-booking-functionality;user-want-to-confirm-the-hotel",
+        "after": [
+          {
+            "result": {
+              "duration": 803300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.afterHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 63909400,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "user check the check box",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_check_the_check_box()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 414645600,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "user verify the confirm hotel",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_verify_the_confirm_hotel()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-26T18:50:12.486Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.beforeHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 42,
+        "name": "user want to book the selected hotel",
+        "description": "",
+        "id": "hotel-booking-functionality;user-want-to-book-the-selected-hotel",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.afterHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 100416500,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "user enter the firstname",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_firstname()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 71125500,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "user enter the lastname",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_lastname()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 91086000,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "user enter the address",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_address()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79235000,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "user enter the card number",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_card_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 108143300,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "user select the card type",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_select_the_card_type()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79073100,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "user select the expiry month",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_select_the_expiry_month()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 81447900,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "user select the expiry year",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_select_the_expiry_year()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 58361100,
+              "status": "passed"
+            },
+            "line": 50,
+            "name": "user enter the CVV number",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_cvv_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 53171500,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "user verify the card details",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_verify_the_card_details()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-26T18:50:13.218Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.beforeHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 54,
+        "name": "user want to logout the application",
+        "description": "",
+        "id": "hotel-booking-functionality;user-want-to-logout-the-application",
+        "after": [
+          {
+            "result": {
+              "duration": 496100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adactin.stepDefinition.Hooks.afterHook(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5634619800,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "user enter the logout button",
+            "match": {
+              "location": "com.adactin.stepDefinition.Stepdefinition.user_enter_the_logout_button()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Hotel Booking Functionality",
+    "description": "",
+    "id": "hotel-booking-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/com/adactin/featureFile/Adactin.feature",
+    "tags": []
+  }
+]
